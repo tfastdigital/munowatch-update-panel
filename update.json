@@ -1,8 +1,8 @@
 {
-  "version_code": 19,
-  "version_name": "2.6",
+  "version_code": 20,
+  "version_name": "3.0",
   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/tfast_final.apk",
-  "changelog": "New Google Play UI updates, clickable social dialog buttons, and Firebase integration.",
-  "update_size": "10.1 MB",
+  "changelog": "Version 3.0 - aligned app version with the update channel so the forced-update prompt clears after updating. Includes the Google Play UI refresh, clickable social dialog buttons, and Firebase integration.",
+  "update_size": "9.7 MB",
   "force_update": true
 }
