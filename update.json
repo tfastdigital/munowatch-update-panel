@@ -1,8 +1,8 @@
 {
-  "version_code": 20,
-  "version_name": "3.0",
+  "version_code": 21,
+  "version_name": "3.1",
   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/tfast_final.apk",
-  "changelog": "Version 3.0 - aligned app version with the update channel so the forced-update prompt clears after updating. Includes the Google Play UI refresh, clickable social dialog buttons, and Firebase integration.",
+  "changelog": "Version 3.1 - rebranded VIP to Pro (app name Munowatch Pro, Lifetime Pro User). Includes the 3.0 forced-update loop fix.",
   "update_size": "9.7 MB",
   "force_update": true
 }
