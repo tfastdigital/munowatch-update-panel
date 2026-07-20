@@ -1,8 +1,9 @@
-{
+﻿{
   "version_code": 21,
   "version_name": "3.1",
-  "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/tfast_final.apk",
-  "changelog": "Version 3.1 - rebranded VIP to Pro (app name Munowatch Pro, Lifetime Pro User). Includes the 3.0 forced-update loop fix.",
+  "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MunowatchPro_v3.1.apk",
+  "apk_name": "MunowatchPro_v3.1.apk",
+  "changelog": "Dialog v4 online config + Continue opens Dashboard + organized APK releases",
   "update_size": "9.7 MB",
-  "force_update": true
+  "force_update": false
 }
