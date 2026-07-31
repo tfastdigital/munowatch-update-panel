@@ -1,9 +1,9 @@
 ﻿{
-  "version_code": 21,
-  "version_name": "3.1",
-  "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MunowatchPro_v3.1.apk",
-  "apk_name": "MunowatchPro_v3.1.apk",
-  "changelog": "Dialog v4 online config + Continue opens Dashboard + organized APK releases",
+  "version_code": 22,
+  "version_name": "3.2",
+  "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MunowatchPro_v3.2.apk",
+  "apk_name": "MunowatchPro_v3.2.apk",
+  "changelog": "Munowatch Pro v3.2 (22) - Tfast release. Force-update for clients on 3.1 and below. Login bypass + Lifetime Pro retained.",
   "update_size": "9.7 MB",
-  "force_update": false
+  "force_update": true
 }
