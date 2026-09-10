@@ -1,9 +1,39 @@
-﻿{
-  "version_code": 22,
-  "version_name": "3.2",
-  "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MunowatchPro_v3.2.apk",
-  "apk_name": "MunowatchPro_v3.2.apk",
-  "changelog": "Munowatch Pro v3.2 (22) - Tfast release. Force-update for clients on 3.1 and below. Login bypass + Lifetime Pro retained.",
-  "update_size": "9.7 MB",
-  "force_update": true
+{
+ "dialog_version": 4,
+ "global": {
+  "enabled": true,
+  "kill_switch": false,
+  "force_update": false,
+  "show_update_button": true,
+  "title": "Tfast Digital Agency",
+  "subtitle": "Official channels - updates - support",
+  "credits": "Powered by tfastdigital.com",
+  "message": "Online - Tfast Digital update channel",
+  "telegram": "https://t.me/tfasthub",
+  "whatsapp": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+  "tiktok": "https://www.tiktok.com/@tfasthub",
+  "website": "https://tfastdigital.com"
+ },
+ "apps": {
+  "com.munowatch.tfast": {
+   "app_name": "Munowatch Pro",
+   "force_update": false,
+   "block_entry": false,
+   "kill_switch": false,
+   "latest_version_code": 29,
+   "latest_version_name": "4.9",
+   "message": "Munowatch Pro v4.9 (Tfast mod) - all systems online",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MunowatchPro_v4.9.apk",
+   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MunowatchPro_latest.apk",
+   "update_label": "Download MunowatchPro_v4.9.apk",
+   "check_update_label": "Check for Updates"
+  },
+  "com.community.mbox.tv": {
+   "app_name": "MovieBox TV Premium",
+   "force_update": false,
+   "kill_switch": false,
+   "message": "MovieBox TV - Tfast updates",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MovieBoxTv_latest.apk"
+  }
+ }
 }
