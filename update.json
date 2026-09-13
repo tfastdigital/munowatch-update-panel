@@ -20,13 +20,14 @@
    "force_update": false,
    "block_entry": false,
    "kill_switch": false,
-   "latest_version_code": 490000,
-   "latest_version_name": "4.9.3",
-   "message": "Munowatch Pro v4.9.3 (Tfast mod) - all systems online",
-   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MunowatchPro_v4.9.3.apk",
-   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MunowatchPro_latest.apk",
-   "update_label": "Download MunowatchPro_v4.9.3.apk",
-   "check_update_label": "Check for Updates"
+   "latest_version_code": 500009,
+   "latest_version_name": "5.0.9",
+   "message": "Munowatch Pro v5.0.9 (Tfast mod) - all systems online",
+   "apk_url": "https://t.me/tfastmodcustomers_bot",
+   "update_url": "https://t.me/tfastmodcustomers_bot",
+   "update_label": "Download MunowatchPro_v5.0.4.apk",
+   "check_update_label": "Check for Updates",
+   "download_url": "https://t.me/tfastmodcustomers_bot"
   },
   "com.community.mbox.tv": {
    "app_name": "MovieBox TV Premium",
