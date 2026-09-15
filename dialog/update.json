@@ -5,14 +5,28 @@
   "kill_switch": false,
   "force_update": false,
   "show_update_button": true,
-  "title": "Tfast Digital Agency",
+  "title": "Zed",
   "subtitle": "Official channels - updates - support",
-  "credits": "Powered by tfastdigital.com",
-  "message": "Online - Tfast Digital update channel",
-  "telegram": "https://t.me/tfasthub",
+  "credits": "Powered by Zed",
+  "message": "Online - Zed update channel",
+  "telegram": "https://t.me/ZedMediaBot",
   "whatsapp": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
-  "tiktok": "https://www.tiktok.com/@tfasthub",
-  "website": "https://tfastdigital.com"
+  "tiktok": "",
+  "website": "https://t.me/ZedMediaBot",
+  "socials": [
+   {
+    "key": "telegram",
+    "label": "Telegram",
+    "url": "https://t.me/ZedMediaBot",
+    "on": true
+   },
+   {
+    "key": "whatsapp",
+    "label": "WhatsApp",
+    "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+    "on": true
+   }
+  ]
  },
  "apps": {
   "com.munowatch.tfast": {
@@ -20,20 +34,34 @@
    "force_update": false,
    "block_entry": false,
    "kill_switch": false,
-   "latest_version_code": 500009,
-   "latest_version_name": "5.0.9",
-   "message": "Munowatch Pro v5.0.9 (Tfast mod) - all systems online",
-   "apk_url": "https://t.me/tfastmodcustomers_bot",
-   "update_url": "https://t.me/tfastmodcustomers_bot",
-   "update_label": "Download MunowatchPro_v5.0.4.apk",
+   "latest_version_code": 600000,
+   "latest_version_name": "6.0",
+   "message": "Munowatch Pro v6.0 - all systems online",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_v6.0.apk",
+   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_v6.0.apk",
+   "update_label": "Download Munowatch Pro v6.0",
    "check_update_label": "Check for Updates",
-   "download_url": "https://t.me/tfastmodcustomers_bot"
+   "download_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_latest.apk",
+   "socials": [
+    {
+     "key": "telegram",
+     "label": "Telegram",
+     "url": "https://t.me/ZedMediaBot",
+     "on": true
+    },
+    {
+     "key": "whatsapp",
+     "label": "WhatsApp",
+     "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+     "on": true
+    }
+   ]
   },
   "com.community.mbox.tv": {
    "app_name": "MovieBox TV Premium",
    "force_update": false,
    "kill_switch": false,
-   "message": "MovieBox TV - Tfast updates",
+   "message": "MovieBox TV - Zed updates",
    "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MovieBoxTv_latest.apk"
   }
  }
