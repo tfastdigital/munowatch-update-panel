@@ -1,68 +1,10 @@
 {
- "dialog_version": 4,
- "global": {
-  "enabled": true,
-  "kill_switch": false,
-  "force_update": false,
-  "show_update_button": true,
-  "title": "Zed",
-  "subtitle": "Official channels - updates - support",
-  "credits": "Powered by Zed",
-  "message": "Online - Zed update channel",
-  "telegram": "https://t.me/ZedMediaBot",
-  "whatsapp": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
-  "tiktok": "",
-  "website": "https://t.me/ZedMediaBot",
-  "socials": [
-   {
-    "key": "telegram",
-    "label": "Telegram",
-    "url": "https://t.me/ZedMediaBot",
-    "on": true
-   },
-   {
-    "key": "whatsapp",
-    "label": "WhatsApp",
-    "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
-    "on": true
-   }
-  ]
- },
- "apps": {
-  "com.munowatch.tfast": {
-   "app_name": "Munowatch Pro",
-   "force_update": false,
-   "block_entry": false,
-   "kill_switch": false,
-   "latest_version_code": 600000,
-   "latest_version_name": "6.0",
-   "message": "Munowatch Pro v6.0 - all systems online",
-   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_v6.0.apk",
-   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_v6.0.apk",
-   "update_label": "Download Munowatch Pro v6.0",
-   "check_update_label": "Check for Updates",
-   "download_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_latest.apk",
-   "socials": [
-    {
-     "key": "telegram",
-     "label": "Telegram",
-     "url": "https://t.me/ZedMediaBot",
-     "on": true
-    },
-    {
-     "key": "whatsapp",
-     "label": "WhatsApp",
-     "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
-     "on": true
-    }
-   ]
-  },
-  "com.community.mbox.tv": {
-   "app_name": "MovieBox TV Premium",
-   "force_update": false,
-   "kill_switch": false,
-   "message": "MovieBox TV - Zed updates",
-   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MovieBoxTv_latest.apk"
-  }
- }
+  "version": "6.0.2",
+  "versionCode": 600002,
+  "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/MunowatchPro_v6.0.2.apk",
+  "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_v6.0.2.apk",
+  "size": 11814698,
+  "sha256": "2d06cb713950a03e041354a3c5242a553c427008368ce2178fefcefba704dcdf",
+  "changelog": "Android TV / Google TV support \u00b7 smoother playback \u00b7 fixes and improvements",
+  "force": false
 }
