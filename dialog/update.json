@@ -3,8 +3,8 @@
   "versionCode": 600002,
   "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/MunowatchPro_v6.0.2.apk",
   "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_v6.0.2.apk",
-  "size": 11814698,
-  "sha256": "2d06cb713950a03e041354a3c5242a553c427008368ce2178fefcefba704dcdf",
+  "size": 11847703,
+  "sha256": "dc16c1dae834d80d6d82c200d4218b900ca98a57e16a4577ff3d4a3ec128ee45",
   "changelog": "Android TV / Google TV support \u00b7 smoother playback \u00b7 fixes and improvements",
   "force": false
 }
