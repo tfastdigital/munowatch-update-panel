@@ -63,6 +63,62 @@
    "kill_switch": false,
    "message": "MovieBox TV - Zed updates",
    "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MovieBoxTv_latest.apk"
+  },
+  "com.zedmods.movies": {
+   "app_name": "Zed Movies",
+   "force_update": false,
+   "block_entry": false,
+   "kill_switch": false,
+   "latest_version_code": 620000,
+   "latest_version_name": "6.2.0",
+   "message": "Zed Movies v6.2.0 - all systems online",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
+   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
+   "update_label": "Download Zed Movies v6.2.0",
+   "check_update_label": "Check for Updates",
+   "download_url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_latest.apk",
+   "socials": [
+    {
+     "key": "telegram",
+     "label": "Telegram",
+     "url": "https://t.me/ZedMediaBot",
+     "on": true
+    },
+    {
+     "key": "whatsapp",
+     "label": "WhatsApp",
+     "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+     "on": true
+    }
+   ]
+  },
+  "com.zedtv": {
+   "app_name": "Zed TV",
+   "force_update": false,
+   "block_entry": false,
+   "kill_switch": false,
+   "latest_version_code": 620000,
+   "latest_version_name": "6.2.0",
+   "message": "Zed TV v6.2.0 - all systems online",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v6.2.0.apk",
+   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v6.2.0.apk",
+   "update_label": "Download Zed TV v6.2.0",
+   "check_update_label": "Check for Updates",
+   "download_url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedTV_latest.apk",
+   "socials": [
+    {
+     "key": "telegram",
+     "label": "Telegram",
+     "url": "https://t.me/ZedMediaBot",
+     "on": true
+    },
+    {
+     "key": "whatsapp",
+     "label": "WhatsApp",
+     "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+     "on": true
+    }
+   ]
   }
  }
 }
