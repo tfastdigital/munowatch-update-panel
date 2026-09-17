@@ -1,10 +1,10 @@
 {
-  "version": "6.1.0",
-  "versionCode": 610000,
-  "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/MunowatchPro_v6.1.0.apk",
-  "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_v6.1.0.apk",
+  "version": "6.1.1",
+  "versionCode": 610100,
+  "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/MunowatchPro_v6.1.1.apk",
+  "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_v6.1.1.apk",
   "size": 11847703,
-  "sha256": "75f2ae5a4d93a88c4b695f239a7cf82aa0b6d31b2d38fc68e1c4f43843edc0ee",
-  "changelog": "TV: branded QR on the activation screen + faster, safer activation \u00b7 fixes and improvements",
+  "sha256": "102ee8e575f186589fcbd8b41013f4fd7768fb73a533029dfb21c404a325674d",
+  "changelog": "Activation screen: branded QR + quick links to the home page, web player and TV install \u00b7 fixes",
   "force": false
 }
