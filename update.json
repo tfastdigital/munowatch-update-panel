@@ -1,10 +1,14 @@
 {
   "version": "6.2.0",
   "versionCode": 620000,
+  "min_version": "6.2.0",
+  "min_version_code": 620000,
+  "force": true,
+  "force_update": true,
   "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.0.apk",
   "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
   "size": 11712226,
   "sha256": "9619e44086e73186106f505cac4381bd5da4a244cb520b3b880e9b931aaef140",
   "changelog": "Playback fix for signed CDN links (Referer) \u00b7 Zed Movies branding \u00b7 stability fixes",
-  "force": false
+  "note": "Older versions are no longer supported \u2014 update to continue."
 }
