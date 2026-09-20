@@ -1,10 +1,10 @@
 {
-  "version": "6.1.2",
-  "versionCode": 610200,
-  "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/MunowatchPro_v6.1.2.apk",
-  "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/MunowatchPro_v6.1.2.apk",
-  "size": 11847703,
-  "sha256": "afe18530c672dd56d68f4fc1701334f25629ea1ec44f5064e61270aa9dc048d8",
-  "changelog": "Activation popup is now wide on TV and tablet screens \u00b7 branded QR \u00b7 quick links to home, web player and TV install",
+  "version": "6.2.0",
+  "versionCode": 620000,
+  "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.0.apk",
+  "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
+  "size": 11712226,
+  "sha256": "9619e44086e73186106f505cac4381bd5da4a244cb520b3b880e9b931aaef140",
+  "changelog": "Playback fix for signed CDN links (Referer) \u00b7 Zed Movies branding \u00b7 stability fixes",
   "force": false
 }
