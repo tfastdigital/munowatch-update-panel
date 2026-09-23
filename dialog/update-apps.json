@@ -1,0 +1,162 @@
+{
+ "dialog_version": 4,
+ "global": {
+  "enabled": true,
+  "kill_switch": false,
+  "force_update": false,
+  "show_update_button": true,
+  "title": "Zed",
+  "subtitle": "Official channels - updates - support",
+  "credits": "Powered by Zed",
+  "message": "Online - Zed update channel",
+  "telegram": "https://t.me/ZedMediaBot",
+  "whatsapp": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+  "tiktok": "",
+  "website": "https://t.me/ZedMediaBot",
+  "socials": [
+   {
+    "key": "telegram",
+    "label": "Telegram",
+    "url": "https://t.me/ZedMediaBot",
+    "on": true
+   },
+   {
+    "key": "whatsapp",
+    "label": "WhatsApp",
+    "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+    "on": true
+   }
+  ],
+  "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
+  "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
+  "download_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_latest.apk"
+ },
+ "apps": {
+  "com.munowatch.tfast": {
+   "app_name": "Munowatch Pro",
+   "force_update": false,
+   "block_entry": false,
+   "kill_switch": false,
+   "latest_version_code": 620000,
+   "latest_version_name": "6.2.0 (Zed Movies)",
+   "message": "Munowatch Pro has been replaced by Zed Movies - tap Download Update to install it.",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
+   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
+   "update_label": "Download Zed Movies",
+   "check_update_label": "Check for Updates",
+   "download_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_latest.apk",
+   "socials": [
+    {
+     "key": "telegram",
+     "label": "Telegram",
+     "url": "https://t.me/ZedMediaBot",
+     "on": true
+    },
+    {
+     "key": "whatsapp",
+     "label": "WhatsApp",
+     "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+     "on": true
+    }
+   ]
+  },
+  "com.community.mbox.tv": {
+   "app_name": "MovieBox TV Premium",
+   "force_update": false,
+   "kill_switch": false,
+   "message": "MovieBox TV - Zed updates",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/refs/heads/main/apks/MovieBoxTv_latest.apk"
+  },
+  "com.zedmods.movies": {
+   "app_name": "Zed Movies",
+   "force_update": false,
+   "block_entry": false,
+   "kill_switch": false,
+   "latest_version_code": 620000,
+   "latest_version_name": "6.2.0",
+   "message": "Zed Movies v6.2.0 - all systems online",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
+   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.0.apk",
+   "update_label": "Download Zed Movies v6.2.0",
+   "check_update_label": "Check for Updates",
+   "download_url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_latest.apk",
+   "socials": [
+    {
+     "key": "telegram",
+     "label": "Telegram",
+     "url": "https://t.me/ZedMediaBot",
+     "on": true
+    },
+    {
+     "key": "whatsapp",
+     "label": "WhatsApp",
+     "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+     "on": true
+    }
+   ]
+  },
+  "com.zedtv": {
+   "app_name": "Zed TV",
+   "force_update": false,
+   "block_entry": false,
+   "kill_switch": false,
+   "latest_version_code": 620000,
+   "latest_version_name": "6.2.0",
+   "message": "Zed TV v6.2.0 - all systems online",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v6.2.0.apk",
+   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v6.2.0.apk",
+   "update_label": "Download Zed TV v6.2.0",
+   "check_update_label": "Check for Updates",
+   "download_url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedTV_v6.2.0.apk",
+   "socials": [
+    {
+     "key": "telegram",
+     "label": "Telegram",
+     "url": "https://t.me/ZedMediaBot",
+     "on": true
+    },
+    {
+     "key": "whatsapp",
+     "label": "WhatsApp",
+     "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+     "on": true
+    }
+   ]
+  },
+  "com.munowatchtv": {
+   "app_name": "Zed TV",
+   "subtitle": "Official channels - updates - support",
+   "force_update": false,
+   "block_entry": false,
+   "kill_switch": false,
+   "mode_kill_switch": false,
+   "latest_version_code": 100040,
+   "latest_version_name": "1.4.3",
+   "min_version_code": 1,
+   "hide_continue_when_blocked": true,
+   "message": "Zed TV v1.4.3 - all systems online",
+   "update_message": "A newer Zed TV build is available - tap Download Update.",
+   "outdated_message": "This build is outdated. Download the latest update to continue.",
+   "kill_message": "This app is temporarily disabled by Zed. Update or contact support.",
+   "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v1.4.3.apk",
+   "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v1.4.3.apk",
+   "update_label": "Download Zed TV v1.4.3",
+   "check_update_label": "Check for Updates",
+   "download_url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedTV_v1.4.3.apk",
+   "socials": [
+    {
+     "key": "telegram",
+     "label": "Telegram",
+     "url": "https://t.me/ZedMediaBot",
+     "on": true
+    },
+    {
+     "key": "whatsapp",
+     "label": "WhatsApp",
+     "url": "https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a",
+     "on": true
+    }
+   ]
+  }
+ }
+}
