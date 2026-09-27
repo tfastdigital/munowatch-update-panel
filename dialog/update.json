@@ -1,14 +1,14 @@
 {
-  "version": "6.2.1",
-  "versionCode": 620100,
-  "min_version": "6.2.0",
-  "min_version_code": 620000,
-  "force": true,
-  "force_update": true,
-  "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.1.apk",
-  "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.1.apk",
-  "size": 11712226,
-  "sha256": "2795c825e98dc5590f5c744bf9ceb5eb9f4d3b634a9335ee01ed853090d52fba",
-  "changelog": "PIN activation fix - first tap now activates \u00b7 playback source fixes \u00b7 stability",
-  "note": "Older versions are no longer supported \u2014 update to continue."
+ "version": "6.2.4",
+ "versionCode": 620400,
+ "min_version": "6.2.0",
+ "min_version_code": 620000,
+ "force": true,
+ "force_update": true,
+ "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.4.apk",
+ "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.4.apk",
+ "size": 11716322,
+ "sha256": "0dcaf3ce2b7cc67d7d4327217100b57d8122d734a42b74a52cbc418d3dcd8676",
+ "changelog": "Padlock removed - play & download freely · Latest on Zed Movies · Upgrade opens the buy page · downloads saved to Movies/ZedMovies · PIN & plan info in My Account · stability + auto account fix",
+ "note": "Older versions are no longer supported — update to continue."
 }
