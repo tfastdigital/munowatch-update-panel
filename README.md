@@ -5,9 +5,9 @@ apps read. Direct links:
 
 | File | What it is |
 |---|---|
-| `apks/ZedTV_v1.4.4.apk` · `apks/ZedTV_latest.apk` | **Zed TV** (Android TV / Google TV, v1.4.4, Android 8.0+) |
+| `apks/ZedTV_v1.4.4.apk` · `apks/ZedTV_latest.apk` | **Zed TV** (Android TV / Google TV, v1.4.7, Android 8.0+) |
 | `apks/ZedTV_v6.2.0.apk` | Zed TV older line (kept for existing installs) |
-| `apks/ZedMovies_v6.2.1.apk` · `apks/ZedMovies_latest.apk` | **Zed Movies** (Android phones) |
+| `apks/ZedMovies_v6.2.1.apk` · `apks/ZedMovies_latest.apk` | **Zed Movies** (Android phones, v6.2.5) |
 | `apks/ZedTV_v1.4.2.apk`, `apks/ZedMovies_v6.2.0.apk`, `apks/MovieBoxTv_*` | previous / other builds |
 | `update.json`, `dialog/update.json` | version metadata read by the apps |
 | `dialog/update-apps.json`, `dialog/tv.json` | per-app update config (source for the live update nodes) |

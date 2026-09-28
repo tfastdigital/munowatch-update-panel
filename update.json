@@ -1,14 +1,14 @@
 {
- "version": "6.2.4",
- "versionCode": 620400,
+ "version": "6.2.5",
+ "versionCode": 620500,
  "min_version": "6.2.0",
  "min_version_code": 620000,
  "force": true,
  "force_update": true,
- "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.4.apk",
- "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.4.apk",
+ "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.5.apk",
+ "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.5.apk",
  "size": 11716322,
- "sha256": "0dcaf3ce2b7cc67d7d4327217100b57d8122d734a42b74a52cbc418d3dcd8676",
- "changelog": "Padlock removed - play & download freely · Latest on Zed Movies · Upgrade opens the buy page · downloads saved to Movies/ZedMovies · PIN & plan info in My Account · stability + auto account fix",
+ "sha256": "e0ae6befd1f68c5ebd072b28296a821fa283ba4c386fc3fddf6c0d87a5f8b19c",
+ "changelog": "Session + PIN fixes: auto-recovery when the provider session expires (no more stuck loading after a movie) Â· expired PIN now renews cleanly - re-enter the same PIN and you are back Â· stability fixes",
  "note": "Older versions are no longer supported — update to continue."
 }
