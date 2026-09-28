@@ -1,14 +1,14 @@
 {
- "version": "6.2.5",
- "versionCode": 620500,
+ "version": "6.2.6",
+ "versionCode": 620600,
  "min_version": "6.2.0",
  "min_version_code": 620000,
  "force": true,
  "force_update": true,
- "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.5.apk",
- "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.5.apk",
+ "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.6.apk",
+ "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.6.apk",
  "size": 11716322,
- "sha256": "e0ae6befd1f68c5ebd072b28296a821fa283ba4c386fc3fddf6c0d87a5f8b19c",
- "changelog": "Session + PIN fixes: auto-recovery when the provider session expires (no more stuck loading after a movie) Â· expired PIN now renews cleanly - re-enter the same PIN and you are back Â· stability fixes",
+ "sha256": "56666e5c4c2cdd8c62550fc68dfa8d6082a9e53e579ef485284e128dd82e218b",
+ "changelog": "Clear errors for expired / disabled PIN, wrong device date and network problems. Renewal works: pay, then re-enter the same PIN and you are back. Blocked the phone-date trick that could bypass expiry. Session auto-recovers after a movie.",
  "note": "Older versions are no longer supported — update to continue."
 }
