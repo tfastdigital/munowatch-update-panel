@@ -42,9 +42,8 @@ MovieBox now plays in **English by default**: when a title has an English audio 
 it plays in English, otherwise it plays the original audio. Downloads use the English
 audio too, and titles that support English show **[English]** instead of [Hindi].
 
-Download: **https://github.com/tfastdigital/munowatch-update-panel/releases/tag/moviebox-endub-20260930**
-(direct APK:
-`https://github.com/tfastdigital/munowatch-update-panel/releases/download/moviebox-endub-20260930/MovieBox_Zed.apk`)
+Download: **zedmods.com/moviebox** (page with the download button and steps) — direct APK:
+`https://github.com/tfastdigital/munowatch-update-panel/releases/download/moviebox-endub-20260930/MovieBox_Zed.apk`
 
 How to use: install the APK (allow "Install unknown apps" if Android asks), open
 MovieBox and enter your Zed PIN when asked, then browse and watch. Downloads are
