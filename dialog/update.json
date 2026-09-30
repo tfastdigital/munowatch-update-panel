@@ -1,14 +1,14 @@
 {
- "version": "6.2.6",
- "versionCode": 620600,
+ "version": "6.2.7",
+ "versionCode": 620700,
  "min_version": "6.2.0",
  "min_version_code": 620000,
- "force": true,
- "force_update": true,
- "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.6.apk",
- "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.6.apk",
+ "force": false,
+ "force_update": false,
+ "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.7.apk",
+ "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.7.apk",
  "size": 11716322,
- "sha256": "56666e5c4c2cdd8c62550fc68dfa8d6082a9e53e579ef485284e128dd82e218b",
- "changelog": "Clear errors for expired / disabled PIN, wrong device date and network problems. Renewal works: pay, then re-enter the same PIN and you are back. Blocked the phone-date trick that could bypass expiry. Session auto-recovers after a movie.",
- "note": "Older versions are no longer supported — update to continue."
+ "sha256": "7e55a1ace71a2f09e32132f5d48321e2395ce7e394ac4639836a34b528d69acb",
+ "changelog": "Fewer errors when opening a title - if it fails once (for example while the app refreshes your session) the app now quietly fixes it and opens the title; you only see an error if it truly fails twice. Titles that are not available now say so clearly instead of hanging. Smoother recovery after watching a movie.",
+ "note": "Update from inside the app or at zedmods.com/app."
 }
