@@ -5,9 +5,9 @@ apps read. Direct links:
 
 | File | What it is |
 |---|---|
-| `apks/ZedTV_v1.4.9.apk` · `apks/ZedTV_latest.apk` | **Zed TV** (Android TV / Google TV, v1.4.9, Android 8.0+) |
+| `apks/ZedTV_v1.4.11.apk` · `apks/ZedTV_latest.apk` | **Zed TV** (Android TV / Google TV, v1.4.11, Android 8.0+) |
 | `apks/ZedTV_v6.2.0.apk` | Zed TV older line (kept for existing installs) |
-| `apks/ZedMovies_v6.2.7.apk` · `apks/ZedMovies_latest.apk` | **Zed Movies** (Android phones, v6.2.7) |
+| `apks/ZedMovies_v6.2.9.apk` · `apks/ZedMovies_latest.apk` | **Zed Movies** (Android phones, v6.2.9) |
 | `apks/ZedTV_v1.4.2.apk`, `apks/ZedMovies_v6.2.0.apk`, `apks/MovieBoxTv_*` | previous / other builds |
 | `update.json`, `dialog/update.json` | version metadata read by the apps |
 | `dialog/update-apps.json`, `dialog/tv.json` | per-app update config (source for the live update nodes) |
@@ -26,15 +26,15 @@ Friendly links: **zedmods.com/tv** (TV app) · **zedmods.com/app** (phone app) �
 
 ## What's new
 
-**Zed Movies v6.2.7** - fewer errors when opening a title. If a title fails once
-(for example while the app refreshes your session) the app now quietly fixes it and
-opens the title; you only see an error if it truly fails twice. Titles that are not
-available now say so clearly instead of hanging, and recovery after watching a movie
-is smoother.
+**Zed Movies v6.2.9** - more reliable auto-login. If the server temporarily refuses
+a login (for example after long playback), the app now keeps your existing account,
+waits, and retries automatically instead of repeating login attempts. Session
+recovery in the background is calmer and faster.
 
-**Zed TV v1.4.9** - the same protection on TV: a title that fails once now quietly
-retries and continues, session recovery is better, and unavailable titles show a
-clear message.
+**Zed TV v1.4.11** - the same protection on TV: when the server temporarily blocks
+the session, the TV keeps its account and retries automatically instead of creating
+a new one, fixing occasional repeated logout loops. After a session refresh the TV
+returns to the logged-in screen by itself.
 
 ## MovieBox (English audio)
 
