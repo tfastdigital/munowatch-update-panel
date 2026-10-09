@@ -1,14 +1,14 @@
 {
- "version": "6.2.9",
- "versionCode": 620900,
+ "version": "6.2.10",
+ "versionCode": 621000,
  "min_version": "6.2.0",
  "min_version_code": 620000,
  "force": false,
  "force_update": false,
- "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.9.apk",
- "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.9.apk",
+ "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.10.apk",
+ "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.10.apk",
  "size": 11720418,
- "sha256": "4cb005701582ac0262aeb80fe6c28af7adf568ea5b69ce34327f217d77dcbc86",
- "changelog": "More reliable auto-login: if the server temporarily refuses a login (for example after long playback), the app now keeps your existing account, waits and retries automatically instead of repeating login attempts; session recovery in the background is calmer and faster.",
+ "sha256": "e83bd854b62e1b75398fffd3cd4c16b7a2774665d93654d42bd2310f9ea949b9",
+ "changelog": "Automatic session repair: if the server keeps refusing the old session (or blocks the account), the app now recreates the session by itself and takes you back to your movies - no more being stuck on the activation screen with no way out.",
  "note": "Update from inside the app or at zedmods.com/app."
 }

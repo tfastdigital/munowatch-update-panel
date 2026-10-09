@@ -1,9 +1,9 @@
 {
  "app_name": "Zed TV",
  "subtitle": "Official channels - updates - support",
- "message": "Zed TV v1.4.11 - all systems online",
- "latest_version_code": 100048,
- "latest_version_name": "1.4.11",
+ "message": "Zed TV v1.4.12 - all systems online",
+ "latest_version_code": 100049,
+ "latest_version_name": "1.4.12",
  "min_version_code": 1,
  "force_update": false,
  "block_entry": false,
@@ -13,9 +13,9 @@
  "update_message": "A newer Zed TV build is available - tap Download Update.",
  "outdated_message": "This build is outdated. Download the latest update to continue.",
  "kill_message": "This app is temporarily disabled by Zed. Update or contact support.",
- "update_label": "Download Zed TV v1.4.11",
+ "update_label": "Download Zed TV v1.4.12",
  "check_update_label": "Check for Updates",
- "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v1.4.11.apk",
- "download_url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedTV_v1.4.11.apk",
- "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v1.4.11.apk"
+ "apk_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v1.4.12.apk",
+ "download_url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedTV_v1.4.12.apk",
+ "update_url": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedTV_v1.4.12.apk"
 }

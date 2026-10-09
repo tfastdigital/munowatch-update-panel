@@ -5,9 +5,9 @@ apps read. Direct links:
 
 | File | What it is |
 |---|---|
-| `apks/ZedTV_v1.4.11.apk` · `apks/ZedTV_latest.apk` | **Zed TV** (Android TV / Google TV, v1.4.11, Android 8.0+) |
+| `apks/ZedTV_v1.4.12.apk` · `apks/ZedTV_latest.apk` | **Zed TV** (Android TV / Google TV, v1.4.12, Android 8.0+) |
 | `apks/ZedTV_v6.2.0.apk` | Zed TV older line (kept for existing installs) |
-| `apks/ZedMovies_v6.2.9.apk` · `apks/ZedMovies_latest.apk` | **Zed Movies** (Android phones, v6.2.9) |
+| `apks/ZedMovies_v6.2.10.apk` · `apks/ZedMovies_latest.apk` | **Zed Movies** (Android phones, v6.2.10) |
 | `apks/MovieBoxTv_v1.1.5-tfast.apk` · `apks/MovieBoxTv_latest.apk` | **MovieBox TV** (current build) |
 | `update.json`, `dialog/update.json` | version metadata read by the apps |
 | `dialog/update-apps.json`, `dialog/tv.json` | per-app update config (source for the live update nodes) |
@@ -26,15 +26,14 @@ Friendly links: **zedmods.com/tv** (TV app) · **zedmods.com/app** (phone app) �
 
 ## What's new
 
-**Zed Movies v6.2.9** - more reliable auto-login. If the server temporarily refuses
-a login (for example after long playback), the app now keeps your existing account,
-waits, and retries automatically instead of repeating login attempts. Session
-recovery in the background is calmer and faster.
+**Zed Movies v6.2.10** - automatic session repair. If the server keeps refusing the
+old session (or blocks the account), the app now recreates the session by itself and
+takes you back to your movies - no more being stuck on the activation screen with no
+way out. Updates at most once every 12 hours per device.
 
-**Zed TV v1.4.11** - the same protection on TV: when the server temporarily blocks
-the session, the TV keeps its account and retries automatically instead of creating
-a new one, fixing occasional repeated logout loops. After a session refresh the TV
-returns to the logged-in screen by itself.
+**Zed TV v1.4.12** - the same repair on TV: if the server keeps refusing the old
+session, the TV now recreates it by itself instead of staying on the activation
+screen.
 
 ## MovieBox (English audio)
 
