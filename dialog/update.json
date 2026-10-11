@@ -1,14 +1,14 @@
 {
- "version": "6.2.11",
- "versionCode": 621100,
+ "version": "6.2.12",
+ "versionCode": 621200,
  "min_version": "6.2.0",
  "min_version_code": 620000,
  "force": false,
  "force_update": false,
- "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.11.apk",
- "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.11.apk",
+ "url": "https://cdn.jsdelivr.net/gh/tfastdigital/munowatch-update-panel@main/apks/ZedMovies_v6.2.12.apk",
+ "mirror": "https://raw.githubusercontent.com/tfastdigital/munowatch-update-panel/main/apks/ZedMovies_v6.2.12.apk",
  "size": 11720418,
- "sha256": "b3118658a63de0ba7e6ee358c972287b8dad9ee9ead418767194cd8cbf3ef501",
- "changelog": "Download fixes: downloads now save reliably to Movies/ZedMovies (the app picks the correct download session and retries automatically, including after long downloads), and app updates download with automatic retries, a fast CDN fallback and a file check before installing.",
+ "sha256": "271ec77bff202875960b571dd4ee16e1c55bf261c797e7421f0607441beb7ffa",
+ "changelog": "Session fix: a temporary server check no longer logs you out. If the server refuses the session for a moment (403/5xx or \"unusual activity\"), the app now keeps your session and repairs it silently (refresh, then login) - your PIN and downloads stay. Flagged devices are still handled politely (no account churn).",
  "note": "Update from inside the app or at zedmods.com/app."
 }

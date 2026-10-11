@@ -7,7 +7,7 @@ apps read. Direct links:
 |---|---|
 | `apks/ZedTV_v1.4.12.apk` · `apks/ZedTV_latest.apk` | **Zed TV** (Android TV / Google TV, v1.4.12, Android 8.0+) |
 | `apks/ZedTV_v6.2.0.apk` | Zed TV older line (kept for existing installs) |
-| `apks/ZedMovies_v6.2.11.apk` · `apks/ZedMovies_latest.apk` | **Zed Movies** (Android phones, v6.2.11) |
+| `apks/ZedMovies_v6.2.12.apk` · `apks/ZedMovies_latest.apk` | **Zed Movies** (Android phones, v6.2.12) |
 | `apks/MovieBoxTv_v1.1.5-tfast.apk` · `apks/MovieBoxTv_latest.apk` | **MovieBox TV** (current build) |
 | `update.json`, `dialog/update.json` | version metadata read by the apps |
 | `dialog/update-apps.json`, `dialog/tv.json` | per-app update config (source for the live update nodes) |
@@ -26,10 +26,10 @@ Friendly links: **zedmods.com/tv** (TV app) · **zedmods.com/app** (phone app) �
 
 ## What's new
 
-**Zed Movies v6.2.11** - download fixes. Downloads now save reliably to
-Movies/ZedMovies (the app picks the correct download session and retries
-automatically, including after long downloads). App updates download with
-automatic retries, a fast CDN fallback, and a file check before installing.
+**Zed Movies v6.2.12** - session fix: a temporary server check no longer logs you out.
+If the server refuses the session for a moment (403/5xx or "unusual activity"), the app
+keeps your session and repairs it silently (refresh, then login) - your PIN and downloads
+stay. Flagged devices are still handled politely (no account churn).
 
 **Zed TV v1.4.12** - automatic session repair on TV: if the server keeps refusing
 the old session, the TV recreates it by itself instead of staying on the
